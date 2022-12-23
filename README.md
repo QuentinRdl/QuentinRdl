@@ -1,5 +1,5 @@
 <h2 align="center">Hey ! I'm Quentin</h2>
-<h3 align="center">I'm an undergradute computer science major qt the University of Franche-comte</h3>
+<h3 align="center">I'm an undergradute computer science major at the University of Franche-comte</h3>
 
 - I’m currently learning **Java**, **C** and **SQL**, and trying to get through the second semester.
 
