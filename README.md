@@ -1,7 +1,7 @@
-<h1 align="center">Hey ! I'm Quentin</h1>
-<h3 align="center">I'm an undergradute computer science major from the University of Franche-comte</h3>
+<h2 align="center">Hey ! I'm Quentin</h2>
+<h3 align="center">I'm an undergradute computer science major qt the University of Franche-comte</h3>
 
-- I’m currently learning **Java**, and trying to get through the first semester.
+- I’m currently learning **Java**, **C** and **SQL**, and trying to get through the second semester.
 
 - You can get in touch through Discord at : **Kolow#8776**
 
