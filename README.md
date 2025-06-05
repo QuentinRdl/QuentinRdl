@@ -1,8 +1,8 @@
-<h3 align="center">I'm an undergradute computer science major at the University of Franche-comte</h3>
+<h3 align="center">I'm an undergraduate computer science major at the University of Marie & Louis Pasteur</h3>
 
-- I’m currently learning **C** ,**C++**, **Java**, **PHP**, and **Python** and also trying to get through the sixth and final semester.
+- I’m currently learning **C**,**C++**, **Java**, **PHP**, and **Python**. Furthermore, I'm also trying to get through the sixth and final semester (at last) !
 
-- You can get in touch through Discord at : **Kolow#8776**
+- You can get in touch through Discord at: **Kolow#8776**
 
 ---
 
