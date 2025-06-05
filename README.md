@@ -1,6 +1,6 @@
 <h3 align="center">I'm an undergradute computer science major at the University of Franche-comte</h3>
 
-- I’m currently learning **Java**, **C** ,**MIPS** and **Python** and also trying to get through the third semester.
+- I’m currently learning **Java**, **C** ,**MIPS** and **Python** and also trying to get through the seventh semester.
 
 - You can get in touch through Discord at : **Kolow#8776**
 
